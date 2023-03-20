@@ -32,5 +32,31 @@
   left: 2em;
 }
 .thumb_sale {
+  height: 398px;
   display: flex;
+  position: relative;
+  bottom: 400px;
+  left: 876px;
+}
+
+// Новый слайдер
+
+.Thumb {
+  width: 840px;
+  height: 400px;
+}
+.StyledBox {
+  position: relative;
+  top: 0;
+  right: 0;
+
+  width: 840px;
+  margin-top: 50px;
+
+  overflow: hidden;
+}
+.imgSlider {
+  width: 100%;
+
+  border-radius: 20px;
 }
