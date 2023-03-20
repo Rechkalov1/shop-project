@@ -12,10 +12,6 @@ import 'swiper/css';
 import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-// Import Swiper React components
-
-// Import Swiper styles
-
 function Sliders() {
   return (
     <section className="container">
