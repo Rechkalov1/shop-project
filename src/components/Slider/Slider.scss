@@ -2,35 +2,7 @@
   display: flex;
   justify-content: space-between;
 }
-.slider {
-  position: relative;
-  overflow: hidden;
-}
-.slider_img {
-  width: 840px;
-  height: 400px;
-  border-radius: 20px;
-}
 
-.slider_right,
-.slider_left {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-  background-color: transparent;
-  border-radius: 50%;
-  width: 50px !important;
-  height: 50px !important;
-  cursor: pointer;
-}
-
-.slider_right {
-  right: 4em;
-}
-.slider_left {
-  left: 2em;
-}
 .thumb_sale {
   height: 398px;
   display: flex;
@@ -41,7 +13,7 @@
 
 // Новый слайдер
 
-.Thumb {
+.thumbBox {
   width: 840px;
   height: 400px;
 }

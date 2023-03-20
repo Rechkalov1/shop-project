@@ -22,7 +22,7 @@ function Sliders() {
           pagination={{ clickable: true }}
           scrollbar={{ draggable: true }}
           autoplay={{
-            delay: 4000,
+            delay: 2000,
             disableOnInteraction: false,
           }}
           spaceBetween={10}
@@ -31,22 +31,22 @@ function Sliders() {
           onSwiper={swiper => console.log(swiper)}
         >
           <SwiperSlide>
-            <div className="Thumb">
+            <div className="thumbBox">
               <img className="imgSlider" src={slide1} alt="bg" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            <div className="Thumb">
+            <div className="thumbBox">
               <img className="imgSlider" src={slide2} alt="bg" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            <div className="Thumb">
+            <div className="thumbBox">
               <img className="imgSlider" src={slide3} alt="bg" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            <div className="Thumb">
+            <div className="thumbBox">
               <img className="imgSlider" src={slide4} alt="bg" />
             </div>
           </SwiperSlide>
