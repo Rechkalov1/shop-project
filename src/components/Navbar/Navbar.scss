@@ -1,0 +1,43 @@
+.Thumb {
+  display: flex;
+  align-items: center;
+}
+.thumb-nav {
+  display: flex;
+  align-items: center;
+
+  .content {
+    &:nth-child(3) {
+      margin-right: 0px;
+    }
+    &:last-child {
+      margin-right: 0px;
+    }
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    margin-right: 50px;
+    color: #2f3035;
+  }
+  .logo {
+    margin-right: 92px;
+    margin-left: 98px;
+  }
+}
+.NavLink {
+  color: #2f3035;
+}
+.button-nav {
+  display: flex;
+}
+.thumb-button--nav {
+  margin-left: 135px;
+}
+.butoon-nav--content {
+  margin-right: 10px;
+  &:last-child {
+    margin-right: 0px;
+  }
+}

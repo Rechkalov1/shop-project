@@ -1,0 +1,47 @@
+.thumb_staff {
+  display: flex;
+  margin-bottom: 35px;
+}
+.product_list {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  &__li {
+    margin-right: 30px;
+    &:last-child {
+      margin-right: 0px;
+    }
+  }
+}
+//form style
+
+.formSeacrh {
+  width: 100%;
+  position: relative;
+}
+.inputForm {
+  width: 1170px;
+  background: #f0f0f4;
+  border-radius: 3px;
+  height: 50px;
+  border: 1px solid #f0f0f4;
+  &::placeholder {
+    padding: 15px 20px;
+  }
+}
+.buttonSearch {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  background: #1c62cd;
+  border-radius: 3px;
+  padding: 14px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
