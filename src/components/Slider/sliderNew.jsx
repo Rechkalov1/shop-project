@@ -9,51 +9,52 @@ import sale from './img/sale.png';
 
 import './Slider.scss';
 import 'swiper/css';
-import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from 'swiper';
+import { Navigation, Pagination, A11y, Autoplay } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 function Sliders() {
   return (
     <section className="container">
-      <div className="StyledBox wrapper">
-        <Swiper
-          modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
-          navigation
-          pagination={{ clickable: true }}
-          scrollbar={{ draggable: true }}
-          autoplay={{
-            delay: 2000,
-            disableOnInteraction: false,
-          }}
-          spaceBetween={10}
-          slidesPerView={1}
-          onSlideChange={() => console.log('slide change')}
-          onSwiper={swiper => console.log(swiper)}
-        >
-          <SwiperSlide>
-            <div className="thumbBox">
-              <img className="imgSlider" src={slide1} alt="bg" />
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div className="thumbBox">
-              <img className="imgSlider" src={slide2} alt="bg" />
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div className="thumbBox">
-              <img className="imgSlider" src={slide3} alt="bg" />
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div className="thumbBox">
-              <img className="imgSlider" src={slide4} alt="bg" />
-            </div>
-          </SwiperSlide>
-        </Swiper>
-      </div>
-      <div className="thumb_sale">
-        <img src={sale} alt="images" />
+      <div className=" wrapper">
+        <div className="StyledBox wrapper">
+          <Swiper
+            modules={[Navigation, Pagination, A11y, Autoplay]}
+            navigation
+            pagination={{ clickable: true }}
+            autoplay={{
+              delay: 2000,
+              disableOnInteraction: false,
+            }}
+            spaceBetween={10}
+            slidesPerView={1}
+            onSlideChange={() => console.log('slide change')}
+            onSwiper={swiper => console.log(swiper)}
+          >
+            <SwiperSlide>
+              <div className="thumbBox">
+                <img className="imgSlider" src={slide1} alt="bg" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="thumbBox">
+                <img className="imgSlider" src={slide2} alt="bg" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="thumbBox">
+                <img className="imgSlider" src={slide3} alt="bg" />
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="thumbBox">
+                <img className="imgSlider" src={slide4} alt="bg" />
+              </div>
+            </SwiperSlide>
+          </Swiper>
+        </div>
+        <div className="thumb_sale">
+          <img src={sale} alt="images" />
+        </div>
       </div>
     </section>
   );
