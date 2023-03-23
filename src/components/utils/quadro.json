@@ -1,0 +1,63 @@
+[
+
+    {    "id":1,
+    "name":" Квадроцикл Hummer J-Rider 1000W/36V",
+    "price":"24,765 грн",
+    "image":"https://ua-motors.com.ua/content/images/7/260x227l90nn0/katalogkvadrociklyelctrokavdrocikl-hummer-j-rider-1000w-36v-53656214069972.webp"
+},
+    {    "id":3,
+    "name":"Квадроцикл LINHAI-YAMAHA M125 ",
+    "price":"38,844 грн",
+    "image":"https://ua-motors.com.ua/content/images/7/260x198l90nn0/katalogkvadrociklykvadrocikl-linhai-yamaha-m125-89064069613316.webp"
+},
+    {    "id":4 ,
+    "name":"Квадроцикл FORTE ATV 800NE ",
+    "price":"46,123 грн",
+    "image":"https://ua-motors.com.ua/content/images/20/260x195l90nn0/katalogkvadrociklyelctrokavdrocikl-forte-atv-800ne-54117784085390.webp"
+},
+    {    "id":2,
+    "name":"Квадроцикл COMMAN Shark 200cc",
+    "price":"93,561 грн",
+    "image":"https://ua-motors.com.ua/content/images/13/260x243l90nn0/katalogkvadrociklykvadrocikl-comman-shark-200cc-23560196428350.webp"
+},
+    {    "id":5,
+    "name":"Квадроцикл HUMMER 800W Lux MP3 ",
+    "price":"21,411 грн",
+    "image":"https://ua-motors.com.ua/content/images/15/260x240l90nn0/katalogkvadrociklyelctrokavdrocikl-hummer-800w-lux-mp3-22144589879652.webp"
+},
+    {    "id":6,
+    "name":"Квадроцикл HUMMER HT-110 LUX ",
+    "price":"46,123 грн",
+    "image":"https://ua-motors.com.ua/content/images/38/260x190l90nn0/katalogkvadrociklykvadrocikl-hummer-ht-110-lux-20766095792033.webp"
+},
+    {    "id":7,
+    "name":"Квадроцикл LINHAI-YAMAHA Z180",
+    "price":"54,100 грн",
+    "image":"https://ua-motors.com.ua/content/images/9/260x240l90nn0/katalogkvadrociklykvadrocikl-linhai-yamaha-z180-74243240174401.webp"
+},
+    {    "id":8,
+    "name":"Квадроцикл  ",
+    "price":"36,923 грн",
+    "image":"https://ua-motors.com.ua/content/images/11/260x226l90nn0/katalogkvadrociklykvadrocikl-comman-scorpion-200cc-69885928401137.webp"
+},
+    {    "id":9,
+    "name":"Квадроцикл  ",
+    "price":"67,993 грн",
+    "image":"https://ua-motors.com.ua/content/images/21/260x224l90nn0/katalogkvadrociklyelctrokavdrocikl-forte-atv-1000rb-82871738114052.webp"
+},
+    {    "id":10,
+    "name":"Квадроцикл  ",
+    "price":"56,173 грн",
+    "image":"https://ua-motors.com.ua/content/images/39/260x208l90nn0/katalogkvadrociklykvadrocikl-hummer-ht-125-lux-59902250477094.webp"
+},
+    {    "id":11,
+    "name":"Квадроцикл  ",
+    "price":"16,643 грн",
+    "image":"https://ua-motors.com.ua/content/images/21/260x196l90nn0/katalogkvadrociklykvadrocikl-geon-tactic-250-efi-17886983763107.webp"
+}
+
+
+
+
+
+]

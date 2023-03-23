@@ -1,0 +1,71 @@
+[
+    {    "id":1,
+        "name":"Гидроцикл BRP SeaDoo GTR 230hp STD Black / Gulfstream",
+        "price":"1,500,423 грн",
+        "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/SJ1050/2023-Yamaha-SJ1050-EU-White_Coat-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":2,
+        "name":"Гидроцикл BRP SeaDoo GTI 130hp SE Black / Mango",
+        "price":"150,423 грн",
+        "image":"https://cdnmedia.endeavorsuite.com/images/ThumbGenerator/Thumb.aspx?img=%2F%2Fcdnmedia.endeavorsuite.com%2Fimages%2Fcatalogs%2F17524%2Fproducts%2Fdetail%2F4981b2e8-ac33-4f7a-90a6-0695fcd7d52f.jpg&mw=1000&mh=563&f=1"
+    },
+    
+    {    "id":3,
+        "name":"Гидроцикл BRP SeaDoo GTI 155hp SE Long Blue Metallic",
+        "price":"800,000 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/GP1800RSVHO/2023-Yamaha-GP1800RSVHO-EU-Black_Solid-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":4,
+        "name":"Гидроцикл BRP SeaDoo GTR 230hp X California green ",
+        "price":"546,123 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/SJ1050/2023-Yamaha-SJ1050-EU-White_Coat-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":5,
+        "name":"Гидроцикл BRP SeaDoo GTR 230hp STD Black / Gulfstream",
+        "price":"245,431 грн",
+        "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/GP1800RHO/2023-Yamaha-GP1800RHO-EU-Vivid_Purplish_Blue_Metallic-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":6,
+        "name":"Гидроцикл BRP SeaDoo GTX 300hp LTD Liquid Metal",
+        "price":"3,786,987 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/GP1800RSVHO/2023-Yamaha-GP1800RSVHO-EU-Black_Solid-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":7,
+        "name":"Гидроцикл BRP SeaDoo Spark 60hp 2 up",
+        "price":"675,310 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/VXCOM/2023-Yamaha-VXCOM-EU-Pure_White_Solid-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":8,
+        "name":"Гидроцикл BRP SeaDoo Spark GTS 90hp Rental",
+        "price":"нет в наличии",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/VXCRUISERHO/2023-Yamaha-VXCRUISERHO-EU-Pure_White_Solid-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":9,
+        "name":"Гидроцикл BRP SeaDoo WAKE 230hp PRO Teal blue",
+        "price":"153,3423 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/FX-HO/2023-Yamaha-FX-HO-EU-Vivid_Purplish_Blue_Metallic-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":10,
+        "name":"Гидроцикл Spark 2-UP 900 Ho Ace Chili Pepper",
+        "price":"999,999 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/FX-HO-CR/2023-Yamaha-FX-HO-CR-EU-Dark_Gray_Metallic-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":11,
+        "name":"Гидроцикл Spark 2-UP 900 Ho Ace Pineapple ",
+        "price":"450,987 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/FX-HO-CR/2023-Yamaha-FX-HO-CR-EU-Dark_Gray_Metallic-Studio-001-03_Mobile.jpg"
+    },
+    {    "id":12,
+        "name":"Гидроцикл BRP Sea-doo Spark 2-UP 900 Ace Vanilla ",
+        "price":"254,4213 грн",      
+          "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/FXSVHO/2023-Yamaha-FXSVHO-EU-Black_Solid-Studio-001-03_Mobile.jpg"
+
+    },
+    {    "id":13,
+        "name":"Гидроцикл Spark 3-UP 900 HO Ace IBR Blueberry",
+        "price":"500,423 грн",
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2023/FXSVHOCR/2023-Yamaha-FXSVHOCR-EU-Dark_Gray_Metallic-Studio-001-03_Mobile.jpg"
+
+    }
+   
+]
